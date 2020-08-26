@@ -6,13 +6,14 @@
 An R package to provide custom theme options for Shinydashboard applications.
 
 <!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/dashboardthemes)](https://CRAN.R-project.org/package=dashboardthemes)
 [![Travis build status](https://travis-ci.org/nik01010/dashboardthemes.svg?branch=master)](https://travis-ci.org/nik01010/dashboardthemes)
 [![Codecov test coverage](https://codecov.io/gh/nik01010/dashboardthemes/branch/master/graph/badge.svg)](https://codecov.io/gh/nik01010/dashboardthemes?branch=master)
 [![Stability: Active](https://masterminds.github.io/stability/active.svg)](https://masterminds.github.io/stability/active.html)
 <!-- badges: end -->
 
 
-<a href="https://ibb.co/dbMBHn" target="_blank"><img src="https://thumb.ibb.co/dbMBHn/blue_gradient.png" alt="blue_gradient" border="0"></a> <a href="https://ibb.co/bvGNOS" target="_blank"><img src="https://thumb.ibb.co/bvGNOS/boe_website.png" alt="boe_website" border="0"></a> <a href="https://ibb.co/cNgYV7" target="_blank"><img src="https://thumb.ibb.co/cNgYV7/grey_dark.png" alt="grey_dark" border="0"></a> <a href="https://ibb.co/iuFGiS" target="_blank"><img src="https://thumb.ibb.co/iuFGiS/grey_light.png" alt="grey_light" border="0"></a> <a href="https://ibb.co/mW4WHn" target="_blank"><img src="https://thumb.ibb.co/mW4WHn/onenote.png" alt="onenote" border="0"></a> <a href="https://ibb.co/mYhkcn" target="_blank"><img src="https://thumb.ibb.co/mYhkcn/poor_mans_flatly.png" alt="poor_mans_flatly" border="0"></a> <a href="https://ibb.co/ea4LA7" target="_blank"><img src="https://thumb.ibb.co/ea4LA7/purple_gradient.png" alt="purple_gradient" border="0"></a>
+<a href="https://ibb.co/cC96fp3" target="_blank"><img src="https://thumb.ibb.co/dbMBHn/blue_gradient.png" alt="blue_gradient" border="0"></a> <a href="https://ibb.co/JrtqydH" target="_blank"><img src="https://thumb.ibb.co/bvGNOS/boe_website.png" alt="boe_website" border="0"></a> <a href="https://ibb.co/j4KjmMZ" target="_blank"><img src="https://thumb.ibb.co/cNgYV7/grey_dark.png" alt="grey_dark" border="0"></a> <a href="https://ibb.co/hMw03n4" target="_blank"><img src="https://thumb.ibb.co/iuFGiS/grey_light.png" alt="grey_light" border="0"></a> <a href="https://ibb.co/x1m2n4b" target="_blank"><img src="https://thumb.ibb.co/mW4WHn/onenote.png" alt="onenote" border="0"></a> <a href="https://ibb.co/G3wySmY" target="_blank"><img src="https://thumb.ibb.co/mYhkcn/poor_mans_flatly.png" alt="poor_mans_flatly" border="0"></a> <a href="https://ibb.co/bmDbf6t" target="_blank"><img src="https://thumb.ibb.co/ea4LA7/purple_gradient.png" alt="purple_gradient" border="0"></a>
 <br>
 
 ## Features
@@ -21,14 +22,16 @@ An R package to provide custom theme options for Shinydashboard applications.
 - Easy creation of new themes and logos, without knowledge of CSS code.
 
 - Use of live theme switchers in apps (<a href="https://github.com/nik01010/dashboardThemeSwitcher" target="_blank">Guide available here</a>).
-  
-  
-## Disclaimer
-This is not part of the official Shinydashboard package and is released as a separate set of functionality.  Efforts will be made to ensure compatibility with future versions of Shinydashboard but there could be delays in doing so.
 
+- Theme designer (<a href="https://github.com/nik01010/dashboardThemeDesigner" target="_blank">Available here</a>)
 
 ## Installation
+From CRAN:
+```R
+install.packages("dashboardthemes")
+```
 
+From GitHub:
 ```R
 library(devtools)
 install_github("nik01010/dashboardthemes")
@@ -281,31 +284,31 @@ Example of creating a custom theme object. Each parameter can be changed as requ
 
 
 ### Blue gradient
-<a href="https://ibb.co/dbMBHn" target="_blank"><img src="https://preview.ibb.co/ik0hOS/blue_gradient.png" alt="blue_gradient" border="0"></a>
+<a href="https://ibb.co/cC96fp3" target="_blank"><img src="https://preview.ibb.co/ik0hOS/blue_gradient.png" alt="blue_gradient" border="0"></a>
 <br>
 
 ### Flat Red
-<a href="https://ibb.co/bvGNOS" target="_blank"><img src="https://preview.ibb.co/mx7U3S/boe_website.png" alt="boe_website" border="0"></a>
+<a href="https://ibb.co/JrtqydH" target="_blank"><img src="https://preview.ibb.co/mx7U3S/boe_website.png" alt="boe_website" border="0"></a>
 <br>
 
 ### Grey light
-<a href="https://ibb.co/iuFGiS" target="_blank"><img src="https://preview.ibb.co/cVBp3S/grey_light.png" alt="grey_light" border="0"></a>
+<a href=" https://ibb.co/hMw03n4" target="_blank"><img src="https://preview.ibb.co/cVBp3S/grey_light.png" alt="grey_light" border="0"></a>
 <br>
 
 ### Grey dark
-<a href="https://ibb.co/cNgYV7" target="_blank"><img src="https://preview.ibb.co/bTgp3S/grey_dark.png" alt="grey_dark" border="0"></a>
+<a href="https://ibb.co/j4KjmMZ" target="_blank"><img src="https://preview.ibb.co/bTgp3S/grey_dark.png" alt="grey_dark" border="0"></a>
 <br>
 
 ### OneNote
-<a href="https://ibb.co/mW4WHn" target="_blank"><img src="https://preview.ibb.co/fxYQcn/onenote.png" alt="onenote" border="0"></a>
+<a href="https://ibb.co/x1m2n4b" target="_blank"><img src="https://preview.ibb.co/fxYQcn/onenote.png" alt="onenote" border="0"></a>
 <br>
 
 ### Poor man's Flatly
-<a href="https://ibb.co/mYhkcn" target="_blank"><img src="https://preview.ibb.co/hRnwiS/poor_mans_flatly.png" alt="poor_mans_flatly" border="0"></a>
+<a href="https://ibb.co/G3wySmY" target="_blank"><img src="https://preview.ibb.co/hRnwiS/poor_mans_flatly.png" alt="poor_mans_flatly" border="0"></a>
 <br>
 
 ### Purple gradient
-<a href="https://ibb.co/ea4LA7" target="_blank"><img src="https://preview.ibb.co/mAK93S/purple_gradient.png" alt="purple_gradient" border="0"></a>
+<a href="https://ibb.co/bmDbf6t" target="_blank"><img src="https://preview.ibb.co/mAK93S/purple_gradient.png" alt="purple_gradient" border="0"></a>
 
 ## Known issues
   
@@ -318,3 +321,6 @@ Some application components have not been fully customised:
 - Popup menu and placeholder font colour in date inputs
 
 - Checkbox and radio buttons
+
+## Disclaimer
+This is not part of the official Shinydashboard package and is released as a separate set of functionality.  Efforts will be made to ensure compatibility with future versions of Shinydashboard but there could be delays in doing so.
