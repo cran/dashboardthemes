@@ -1,5 +1,11 @@
 ### dashboardthemes ----------------------------------------
 
+### v1.1.5
+* buttonHeight and textBoxHeight parameters now default to "auto" instead of fixed pixels
+
+### v1.1.4
+* Switched automated checks from Travis to Github Actions
+
 ### v1.1.3
 * Updated image links to new URLs 
 

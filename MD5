@@ -1,11 +1,11 @@
-37ea093c0635fc16111115526d18d04d *DESCRIPTION
+209bd2a6f869c866100d3b49b5e92484 *DESCRIPTION
 d93f4d28380c2784c9357021b3b5806f *LICENSE
 72287307e397cf6544a2fe7e751da2f7 *NAMESPACE
-5802808a98a096b4449052f6a953f942 *NEWS.md
+e88e4106af332d42400ad8ff28996cf3 *NEWS.md
 6601dffc0b1b3bf51bd8c2664e965e4a *R/CreateCss_cssGradientThreeColors.R
 795558de2cebc91158ff123017bd146f *R/CreateLogo_shinyDashboardLogo.R
 4cab3836987364822b5d7ea1a3a68a6d *R/CreateLogo_shinyDashboardLogoDIY.R
-6fdc76bc47f5ed66857884cc83c0186e *R/CreateTheme_shinyDashboardThemeDIY.R
+84ea5696d6bd439c26924ec08b4d8fb9 *R/CreateTheme_shinyDashboardThemeDIY.R
 6fb8d1f3e44ca31ddf38ef051e98f9fc *R/CreateTheme_shinyDashboardThemes.R
 96f6d4c03b3dc5b91013ac194f2603e4 *R/Theme_BlueGradient.R
 d986673d97d2fcb005aa2c85f4836e62 *R/Theme_FlatRed.R
@@ -15,11 +15,11 @@ fa4934264886171c947741e5721dad40 *R/Theme_OneNote.R
 eadd4b41e8262718b6b447266e6c7cff *R/Theme_PoorMansFlatly.R
 2708b4d4ac5c65d9c917191ce55ce726 *R/Theme_PurpleGradient.R
 a71a4fa54aa71342a612ed4a8e5adf10 *R/dashboardthemes.R
-69d5e99c4548b774386c8b977fab2356 *README.md
-857c1f1c3f11620f158c0267668d60f9 *build/vignette.rds
+230a7d264f6f5d80f8dcd4865056edfe *README.md
+4adb6c0de528053a3b492724d437602c *build/vignette.rds
 2a5dac05ca34d45cd4ae7ecc633e5e6d *inst/doc/using_dashboardthemes.R
 ab3edb7fd62442452b0dd4f81a71065a *inst/doc/using_dashboardthemes.Rmd
-be871feed3dcc8b73bf5ea6696dd78c2 *inst/doc/using_dashboardthemes.html
+94d4d312f8306f2c0e2e189b013a5dd8 *inst/doc/using_dashboardthemes.html
 3e711a1018373dae43422daadd231613 *man/cssGradientThreeColors.Rd
 6a8e0753edb4ace1fba302a25114efb7 *man/dashboardthemes.Rd
 332efe71dc4b3754307a164d742e1395 *man/logo_blue_gradient.Rd
@@ -31,7 +31,7 @@ a2f2fdab94916a212ad1f7530ed9b2e4 *man/logo_grey_dark.Rd
 5c43dad67b0a4b09b64a9b243dcda08d *man/logo_purple_gradient.Rd
 dcf76dd5a45e2c27e2141fb30a9916b9 *man/shinyDashboardLogo.Rd
 0093f55fbb43db8561e2ec515197d659 *man/shinyDashboardLogoDIY.Rd
-4d6e802dcaaf2e7894cc337951afc1e3 *man/shinyDashboardThemeDIY.Rd
+d54296ad7ae0e4ac1245056e3007ed7a *man/shinyDashboardThemeDIY.Rd
 75d44216283d0bbea656a862bb899f10 *man/shinyDashboardThemes.Rd
 f8bd39541a6f870d131db232f68c9556 *man/theme_blue_gradient.Rd
 9b79eef0cb7bf748a503172881f870bd *man/theme_flat_red.Rd
@@ -46,5 +46,5 @@ c35bd84e0aacd30ab897346a9dd2a0e3 *man/theme_purple_gradient.Rd
 d78f77986cc6b258a2f5755b020b09df *tests/testthat/test-CreateLogo_shinyDashboardLogoDIY.R
 fcfb09b07bad4ec9005df8a4dea0a2a4 *tests/testthat/test-CreateTheme_shinyDashboardThemeDIY.R
 25ca003d7e2580faa89e44a944b8c61f *tests/testthat/test-LintRules.R
-a00280a226c34dadf79af76ea11f873e *tests/testthat/test-assets/CreateTheme_shinyDashboardThemeDIY/ExpectedOutput.css
+43f49ae2b1246966d80f45f7ad13e3af *tests/testthat/test-assets/CreateTheme_shinyDashboardThemeDIY/ExpectedOutput.css
 ab3edb7fd62442452b0dd4f81a71065a *vignettes/using_dashboardthemes.Rmd
