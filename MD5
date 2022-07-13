@@ -1,4 +1,4 @@
-209bd2a6f869c866100d3b49b5e92484 *DESCRIPTION
+7910b097e264e2daf7673815b43c8b8f *DESCRIPTION
 d93f4d28380c2784c9357021b3b5806f *LICENSE
 72287307e397cf6544a2fe7e751da2f7 *NAMESPACE
 e88e4106af332d42400ad8ff28996cf3 *NEWS.md
@@ -15,11 +15,12 @@ fa4934264886171c947741e5721dad40 *R/Theme_OneNote.R
 eadd4b41e8262718b6b447266e6c7cff *R/Theme_PoorMansFlatly.R
 2708b4d4ac5c65d9c917191ce55ce726 *R/Theme_PurpleGradient.R
 a71a4fa54aa71342a612ed4a8e5adf10 *R/dashboardthemes.R
-230a7d264f6f5d80f8dcd4865056edfe *README.md
+56b95f1942b6e6b397084847d919afaa *R/zzz.R
+e7d32756089a2230785ddc1f51eae673 *README.md
 4adb6c0de528053a3b492724d437602c *build/vignette.rds
 2a5dac05ca34d45cd4ae7ecc633e5e6d *inst/doc/using_dashboardthemes.R
 ab3edb7fd62442452b0dd4f81a71065a *inst/doc/using_dashboardthemes.Rmd
-94d4d312f8306f2c0e2e189b013a5dd8 *inst/doc/using_dashboardthemes.html
+4fc1243f5ad4b583f07fc5a4b8f37c1e *inst/doc/using_dashboardthemes.html
 3e711a1018373dae43422daadd231613 *man/cssGradientThreeColors.Rd
 6a8e0753edb4ace1fba302a25114efb7 *man/dashboardthemes.Rd
 332efe71dc4b3754307a164d742e1395 *man/logo_blue_gradient.Rd
@@ -45,6 +46,5 @@ c35bd84e0aacd30ab897346a9dd2a0e3 *man/theme_purple_gradient.Rd
 0d6ddec12a153843b44c1f06eafb3942 *tests/testthat/test-CreateLogo_shinyDashboardLogo.R
 d78f77986cc6b258a2f5755b020b09df *tests/testthat/test-CreateLogo_shinyDashboardLogoDIY.R
 fcfb09b07bad4ec9005df8a4dea0a2a4 *tests/testthat/test-CreateTheme_shinyDashboardThemeDIY.R
-25ca003d7e2580faa89e44a944b8c61f *tests/testthat/test-LintRules.R
 43f49ae2b1246966d80f45f7ad13e3af *tests/testthat/test-assets/CreateTheme_shinyDashboardThemeDIY/ExpectedOutput.css
 ab3edb7fd62442452b0dd4f81a71065a *vignettes/using_dashboardthemes.Rmd
